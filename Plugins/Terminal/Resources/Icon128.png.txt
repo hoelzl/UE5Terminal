@@ -1,0 +1,9 @@
+This is a placeholder for the plugin icon.
+
+To add a proper icon:
+1. Create a 128x128 PNG image
+2. Name it Icon128.png
+3. Place it in this directory (Plugins/Terminal/Resources/)
+4. Remove this placeholder file
+
+The icon will appear in the Unreal Engine plugin browser.
