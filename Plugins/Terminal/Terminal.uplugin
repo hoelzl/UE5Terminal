@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Terminal",
+	"Description": "A terminal window for UE5 with Slate, UMG, and CommonUI support",
+	"Category": "UI",
+	"CreatedBy": "Matthias Hölzl",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Terminal",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
